@@ -1,0 +1,13 @@
+# Secrets
+.env
+*.env
+!.env.example
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local data you test with
+*.pdf
